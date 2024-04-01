@@ -31,6 +31,4 @@ GRUs have been effectively used in a range of applications, similar to LSTMs but
 - Music composition.
 - Time-series prediction.
 
-GRUs represent an important step in the evolution of neural networks for sequential data processing, offering a balance between the computational efficiency of simple RNNs and the powerful memory capabilities of LSTMs.
-
-With this, we've covered the foundational technologies in modern sequential data processing: RNNs, LSTMs, and GRUs. Each has its unique strengths and applications, providing powerful tools for tackling a wide range of problems in sequence prediction and classification. 🚀
+GRUs represent an important step in the evolution of neural networks for sequential data processing, offering a balance between the computational efficiency of simple RNNs and the powerful memory capabilities of LSTMs. 🚀
