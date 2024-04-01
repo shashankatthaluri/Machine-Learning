@@ -3,6 +3,29 @@
 ## Overview 🌟
 Generative Adversarial Networks (GANs) are a class of deep learning models introduced by Ian Goodfellow and his colleagues in 2014. GANs consist of two neural networks, namely the generator and the discriminator, which are trained simultaneously through adversarial training. The generator aims to generate realistic data samples, while the discriminator aims to distinguish between real and fake data samples. Through this adversarial process, GANs can learn to generate data that closely resembles the training data distribution.
 
+## Example 
+<details> 
+  <summary>Click to expand</summary>
+
+  - Imagine there are two teams playing a game against each other - the Generator Team and the Discriminator Team.
+
+  - The Generator Team's job is to create fake data samples that look just like real data. For example, if the real data is images of human faces, the Generator Team has to create fake face images that appear authentic.
+
+  - The Discriminator Team's role is to act as judges. They get shown both real face images from the actual data, as well as fake face images created by the Generator Team. Their task is to scrutinize each image carefully and decide whether it is real or fake.
+
+  - In the beginning, the Generator Team is not very skilled, so their fake face images look obviously fake and unrealistic. This makes it easy for the Discriminator Team to identify them as fakes.
+
+  - However, after every round, the teams get feedback on their performance. The Discriminator Team shares which images they correctly identified as real or fake. Using this feedback, the Generator Team can learn and improve their face image creation process to make more realistic fakes that are harder to detect next time.
+
+  - Simultaneously, the Discriminator Team also gets feedback on which real and fake images they struggled to identify correctly. This allows them to pick up on the telltale patterns that make an image fake versus real, improving their ability to discriminate for subsequent rounds.
+
+  - As the game progresses over many rounds, the two teams essentially motivate each other to become better and better adversaries. The Generator Team's fake data samples become incredibly realistic and the Discriminator Team becomes extremely skilled at catching even the slightest imperfections that give away fake data.
+
+  - At the highest level, the Generator Team ends up producing synthetic data that is indistinguishable from real data to the Discriminator Team. This is the essence of Generative Adversarial Networks - two neural network models pitted against each other in an adversarial game to reach highly realistic data generation.
+
+  - The human-like back-and-forth feedback and improvement between the two adversaries is what allows GANs to learn and capture the full, true distribution of the real data better than other generative modeling approaches.
+</details>
+
 ## Types of GAN Variations 🔄
 1. **Conditional GANs (cGANs)**: These GANs condition both the generator and discriminator on additional information, such as class labels, to control the generation process.
 2. **Deep Convolutional GANs (DCGANs)**: DCGANs use convolutional layers in both the generator and discriminator networks, enabling stable training and high-quality image generation.
