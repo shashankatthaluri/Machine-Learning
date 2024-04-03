@@ -21,7 +21,7 @@ Despite their successes, DCGANs still face challenges such as mode collapse, whe
 ## Conclusion 🌟
 Deep Convolutional Generative Adversarial Networks have emerged as a powerful tool for generating high-quality images with fine details and realistic textures. Their convolutional architecture, stable training process, and feature representation learning capabilities have paved the way for advancements in various image generation tasks, shaping the future of generative modeling.
 
-## ELI5
+## ELI5 🧒
 <details>
   <summary>Click to expand</summary>
 
