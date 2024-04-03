@@ -1,4 +1,8 @@
 # Recurrent Neural Network (RNN) 🧠
+
+
+
+## ELI5 🧒
 <details>
 <summary>Click to expand</summary>
 
