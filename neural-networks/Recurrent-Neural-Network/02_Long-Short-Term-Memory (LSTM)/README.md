@@ -28,9 +28,8 @@ Long Short-Term Memory Networks (LSTMs) have emerged as a powerful solution for 
 ## ELI5
 <details>
   <summary>click to expand</summary>
-
   
-  ## Understanding LSTMs Neural Networks
+  ## Simple Understanding
   LSTMs (Long Short-Term Memory) neural networks are like a special type of brain that helps computers remember things from earlier in a sequence, just like we do with storybooks. 📙
   
   ### Here's how it works: 🛠️
@@ -64,7 +63,7 @@ Long Short-Term Memory Networks (LSTMs) have emerged as a powerful solution for 
     > - **Correct Answer:** C. A memory cell
     > - **Explanation:** An LSTM uses a memory cell to store and remember important information.
   <details>
-    
+  
   3. How does an LSTM decide what information to remember?
    - [ ] A. By forgetting everything it sees
    - [ ] B. By remembering only the first page of the story
