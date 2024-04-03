@@ -3,7 +3,7 @@
 ## Overview 🌟
 Generative Adversarial Networks (GANs) are a class of deep learning models introduced by Ian Goodfellow and his colleagues in 2014. GANs consist of two neural networks, namely the generator and the discriminator, which are trained simultaneously through adversarial training. The generator aims to generate realistic data samples, while the discriminator aims to distinguish between real and fake data samples. Through this adversarial process, GANs can learn to generate data that closely resembles the training data distribution.
 
-## Example 
+## ELI5
 <details> 
   <summary>Click to expand</summary>
 
