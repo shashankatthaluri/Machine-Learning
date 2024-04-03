@@ -28,30 +28,54 @@ Long Short-Term Memory Networks (LSTMs) have emerged as a powerful solution for 
 ## ELI5
 <details>
   <summary>click to expand</summary>
+
   
-  ### What are LSTMs? 🤔
-  Long Short-Term Memory networks (LSTMs) are a special kind of RNN, capable of learning long-term dependencies. Introduced by Hochreiter & Schmidhuber in 1997, LSTMs were designed to combat the vanishing gradient problem that affects standard RNNs, allowing them to learn from data points that are far apart in time.
+  ## Understanding LSTMs Neural Networks
+  LSTMs (Long Short-Term Memory) neural networks are like a special type of brain that helps computers remember things from earlier in a sequence, just like we do with storybooks. 📙
   
-  ### Why LSTMs? 🔍
-  LSTMs are crucial for tasks where the context from earlier in the sequence is necessary to understand or predict what comes later. Traditional RNNs struggle to remember context for long periods, which is where LSTMs excel with their unique architecture designed specifically to avoid long-term dependency issues.
+  ### Here's how it works: 🛠️
+  1. **Remembering Important Stuff**: LSTMs have a special memory cell that can store important information for a long time. This is like having a special notebook where you write down the important parts of the story as you read it.
+  2. **Adding New Information**: As you read each page of the story, you can add new information to your notebook. The LSTM does the same thing with its memory cell. It adds new information from each new part of the sequence it sees.
+  3. **Deciding What to Remember**: LSTMs are smart. They know when to remember something important and when to forget something less important. It's like when you remember the name of a new character in the story but forget the color of their shoes. LSTMs can do the same thing with the information they store.
+
+  ## Test time 📄🖋
   
-  ### How do LSTMs Work? 🛠️
-  The core idea behind LSTMs is the cell state, which runs straight down the entire chain, with only minor linear interactions. This simplicity allows information to flow along it largely unchanged. LSTMs can add or remove information to the cell state, carefully regulated by structures called gates:
-  1. **Forget Gate:** Decides what information is thrown away from the cell state.
-  2. **Input Gate:** Updates the cell state with new information.
-  3. **Output Gate:** Determines what the next hidden state should be, affecting the output at the current step and the cell state for the next step
+  Now, let's see if you got it! Here are your pick the right answer questions:
+  1. What is an LSTM?
+   - [ ] A. A type of computer that remembers stories.
+   - [ ] B. A special type of neural network that can remember important things from earlier in a sequence.
+   - [ ] C. A type of book that you can read to learn about science.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+    > **Explanation:** 
+    > - **Correct Answer:** B. A special type of neural network that can remember important things from earlier in a sequence.
+    > - **Explanation:** An LSTM is indeed a special type of neural network designed to remember important information from earlier parts of a sequence.
+  </details>
   
-  ### Challenges with LSTMs 🚧
-  While LSTMs are powerful, they come with their own set of challenges:
-  - **Complexity:** LSTMs are more complex than simple RNNs, making them harder to train and requiring more computational resources.
-  - **Long Training Times:** Due to their complexity, LSTMs often take longer to train.
-  - **Prone to Overfitting:** With a large number of parameters, LSTMs can easily overfit on smaller datasets.
-  
-  ### Applications of LSTMs 📈
-  LSTMs have been successfully applied in a variety of domains, surpassing traditional RNNs in tasks like:
-  - Language modeling and text generation
-  - Speech recognition
-  - Machine translation
-  - Video analysis
-  LSTMs represent a significant advancement in the ability to model sequences for complex tasks, providing a more nuanced understanding and processing of temporal data. 🚀
+  2. What does an LSTM use to remember important information?
+   - [ ] A. A special notebook
+   - [ ] B. A magic wand
+   - [ ] C. A memory cell
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+    > **Explanation:** 
+    > - **Correct Answer:** C. A memory cell
+    > - **Explanation:** An LSTM uses a memory cell to store and remember important information.
+  <details>
+    
+  3. How does an LSTM decide what information to remember?
+   - [ ] A. By forgetting everything it sees
+   - [ ] B. By remembering only the first page of the story
+   - [ ] C. By deciding what is important and what is not
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+    > **Explanation:** 
+    > - **Correct Answer:** C. By deciding what is important and what is not
+    > - **Explanation:** An LSTM decides what information to remember based on its importance, just like we do when reading a story.
+  <details>
+
+
 <details>
