@@ -27,7 +27,7 @@ To start experimenting with cGANs, you can refer to tutorials and code examples 
 ## Conclusion 🌟
 Conditional Generative Adversarial Networks offer a powerful framework for generating data samples with specific attributes or characteristics. By conditioning the generation process on additional information, cGANs enable finer control over the generated output, making them suitable for a wide range of applications in image synthesis, translation, and manipulation.
 
-## ELI5 
+## ELI5 🧒
 
 <details>
   
