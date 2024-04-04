@@ -1,4 +1,4 @@
-# Policy Gradient in Policy-Based Reinforcement Learning 🎲
+# Policy Gradient 🎲
 
 ## Overview 🌟
 
