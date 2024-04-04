@@ -2,7 +2,7 @@
 
 ## Overview 🌟
 
-Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement learning that balances the benefits of policy iteration and trust region optimization. Introduced by OpenAI, PPO aims to simplify and improve upon the robustness and performance of previous approaches like Trust Region Policy Optimization (TRPO). It has become one of the most popular algorithms in reinforcement learning due to its effectiveness and ease of implementation.
+Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement learning that balances the benefits of policy iteration and trust region optimization. PPO aims to simplify and improve upon the robustness and performance of previous approaches like Trust Region Policy Optimization (TRPO). It has become one of the most popular algorithms in reinforcement learning due to its effectiveness and ease of implementation.
 
 ## Key Principles 📚
 
