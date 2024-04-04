@@ -1,4 +1,4 @@
-# Convolutional Neural Networks (CNNs) in Deep Learning 🌟
+# Convolutional Neural Networks (CNNs) 🌟
 
 ## Overview 🧠
 
@@ -106,3 +106,6 @@ Convolutional Neural Networks have transformed the field of computer vision, ena
      > 
      > **Explanation:** Overfitting is a common challenge in CNNs, particularly when trained on limited data or when the model capacity is too high, leading to poor generalization performance.
   </details>
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one right, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
