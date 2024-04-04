@@ -54,7 +54,7 @@ Reinforcement Learning is a powerful framework for training agents to make auton
 
   ## Test time 📄🖋
   
-  Now, let's see if you got it! Here are your pick the right answer questions:
+  Now, let's see if you got the concept right! Here are few easy multiple choice questions, pick the right answer:
   1. What is reinforcement learning?
    - [ ] A. Learning from rewards and punishments to make decisions.
    - [ ] B. Learning how to cook delicious food.
