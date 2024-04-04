@@ -95,4 +95,8 @@ Q-learning stands as a foundational algorithm in reinforcement learning, offerin
      > 
      > **Explanation:** One challenge faced by Q-learning is balancing exploration (trying new actions) and exploitation (leveraging known actions) to ensure effective learning and optimal decision-making.
   </details>
-The questions are quite simple and beginner friendly. Unfortunately if you miss
+
+
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
