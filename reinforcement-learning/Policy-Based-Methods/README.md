@@ -1,4 +1,4 @@
-# Policy-Based Methods in Reinforcement Learning 🎲
+# Policy-Based Methods in RL 🎲
 
 ## Overview 🌟
 
@@ -35,3 +35,65 @@ Balancing exploration (trying new actions) and exploitation (leveraging known in
 
 Policy-based methods offer a direct and often more intuitively appealing approach to learning in reinforcement learning tasks, especially suitable for environments with complex action spaces. Despite challenges such as potential for high variance and convergence issues, advancements in algorithms like PPO and TRPO have made these methods robust and effective across a broad spectrum of applications.
 
+
+## ELI5 🧒
+<details>
+  <summary>click to expand</summary>
+  
+  ## Simple Understanding
+  Imagine you're the captain of a pirate ship, sailing the vast oceans in search of treasure. Your map is filled with islands, storms, and enemy ships. As captain, you must decide the best course to take at every moment. This is similar to how policy-based methods work in reinforcement learning!
+
+  **1. Setting Sail**: Think of the ocean as the environment. Your ship (the agent) needs to learn the best actions (policy) to maximize the treasure (reward) it can find while avoiding danger.
+
+  **2. What's a Policy?**: In this adventure, a policy is like your secret plan or a set of rules that tells you what to do in every situation. For example, if you see a storm ahead, your policy might be to steer the ship around it. If you spot an island with a treasure chest, your policy guides you to land and explore.
+
+  **3. Learning the Best Policy**: At first, your policy might not be perfect. You might sail into a storm or miss hidden treasures. However, as you explore more of the ocean, you learn from your experiences. This learning process involves adjusting your policy based on what actions lead to the best outcomes, like finding more treasure and safely navigating dangers.
+
+  **4. The Power of Policy-Based Methods**: Unlike other methods that focus on predicting the outcome of every action, policy-based methods directly learn the best actions to take. This approach can be more efficient and effective, especially in complex environments with many possible actions.
+
+
+  ## Test time 📄🖋
+  
+  Now, let's see if you got the concept right! Here are few easy multiple choice questions, pick the right answer:
+  1. What is a policy in reinforcement learning?
+   - [ ] A. A map of all the treasures in the ocean.
+   - [ ] B. A set of rules that tells the agent what action to take in each situation.
+   - [ ] C. A powerful telescope to see far away islands.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** B. A set of rules that tells the agent what action to take in each situation.
+     > 
+     > **Explanation:** In reinforcement learning, a policy is essentially a strategy or a guide that the agent follows to decide its actions at any given state to achieve its goal.
+  </details>
+  
+  2. How do policy-based methods learn?
+   - [ ] A. By guessing randomly until they find the treasure.
+   - [ ] B. By following a strict set of pre-defined rules without deviation.
+   - [ ] C. By exploring the environment and adjusting the policy based on the outcomes of actions.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** C. By exploring the environment and adjusting the policy based on the outcomes of actions.
+     > 
+     > **Explanation:** Policy-based methods learn through exploration and feedback. They try different actions, see the results, and refine their policy to improve their chances of achieving their goal.
+  </details>
+  
+  3. Why might policy-based methods be more effective in complex environments?
+   - [ ] A. Because they always choose the safest route.
+   - [ ] B. Because they can directly learn the best actions to take without needing to predict the outcome of each action.
+   - [ ] C. Because they use a magic compass that always points to the treasure.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** B. Because they can directly learn the best actions to take without needing to predict the outcome of each action.
+     > 
+     > **Explanation:** Policy-based methods are effective in complex environments because they focus on directly learning which actions work best, rather than getting bogged down in the details of predicting the exact outcomes of those actions.
+  </details>
+
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one right, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
