@@ -95,4 +95,6 @@ Deep Q-Networks (DQN) represent a significant breakthrough in reinforcement lear
      > 
      > **Explanation:** Despite the use of target networks, DQN is susceptible to overestimation bias, where the maximum Q-value is consistently overestimated, leading to suboptimal policies.
   </details>
-The questions are quite simple and beginner-friendly. Unfortunately, if you miss
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
