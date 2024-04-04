@@ -94,6 +94,6 @@ Policy-based methods offer a direct and often more intuitively appealing approac
      > **Explanation:** Policy-based methods are effective in complex environments because they focus on directly learning which actions work best, rather than getting bogged down in the details of predicting the exact outcomes of those actions.
   </details>
 
-The questions are quite simple and beginner friendly. Unfortunately if you miss even one right, I recommend you to focus and go through the concept again. 
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one, I recommend you to focus and go through the concept again. 
 
 <h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
