@@ -1,14 +1,14 @@
 # Gated Recurrent Units (GRUs) 🧠💡
 
-### What are GRUs? 🤔
+## What are GRUs? 🤔
 
 Gated Recurrent Units (GRUs) are a variant of RNNs, introduced by Cho et al. in 2014. Designed to solve the vanishing gradient problem like LSTMs, GRUs simplify the model architecture by combining the forget and input gates into a single "update gate." GRUs offer a more streamlined architecture, making them faster to train than LSTMs in many cases, without a significant compromise on performance.
 
-### Why GRUs? 🔍
+## Why GRUs? 🔍
 
 GRUs provide a compelling balance between computational efficiency and the capacity to capture dependencies in sequence data. They have gained popularity in tasks where the model complexity and training time are critical factors, without drastically sacrificing the ability to model long-term dependencies.
 
-### How do GRUs Work? 🛠️
+## How do GRUs Work? 🛠️
 
 1. **Gating Mechanisms**: GRUs utilize two gating mechanisms:
 
@@ -24,12 +24,12 @@ GRUs provide a compelling balance between computational efficiency and the capac
 
 4. **Adaptability to Variable-Length Sequences**: Similar to LSTMs, GRUs can process input sequences of variable lengths and adapt their internal state accordingly, making them versatile for a wide range of sequence modeling tasks.
 
-### Challenges with GRUs 🚧
+## Challenges with GRUs 🚧
 
 - **Model Complexity:** While simpler than LSTMs, GRUs still retain considerable complexity and share some of the challenges of RNNs, such as being computationally intensive compared to simpler architectures.
 - **Overfitting:** Like other neural network models, GRUs can overfit, especially when dealing with small datasets.
 
-### Applications of GRUs 📈
+## Applications of GRUs 📈
 
 GRUs have been effectively used in a range of applications, similar to LSTMs but often with reduced computational overhead. These include:
 
@@ -41,7 +41,7 @@ GRUs have been effectively used in a range of applications, similar to LSTMs but
 GRUs represent an important step in the evolution of neural networks for sequential data processing, offering a balance between the computational efficiency of simple RNNs and the powerful memory capabilities of LSTMs. 🚀
 
 
-## ELI5
+## ELI5 🧒
 <details>
   <summary>click to expand</summary>
   
