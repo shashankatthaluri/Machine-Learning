@@ -1,4 +1,4 @@
-## Gated Recurrent Units (GRUs) 🧠💡
+# Gated Recurrent Units (GRUs) 🧠💡
 
 ### What are GRUs? 🤔
 
