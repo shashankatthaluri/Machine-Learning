@@ -93,3 +93,7 @@ Reinforcement Learning is a powerful framework for training agents to make auton
      > 
      > **Explanation:** Rewards play a crucial role in reinforcement learning by providing feedback to the agent. They encourage the agent to repeat actions that lead to positive outcomes and avoid actions that lead to negative outcomes, ultimately guiding the learning process.
   </details>
+
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one right, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
