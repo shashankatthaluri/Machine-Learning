@@ -25,7 +25,7 @@ Long Short-Term Memory Networks (LSTMs) are a type of recurrent neural network (
 Long Short-Term Memory Networks (LSTMs) have emerged as a powerful solution for modeling sequential data with long-range dependencies. Their ability to retain information over extended sequences and mitigate the vanishing gradient problem has made them indispensable in various domains, from natural language processing to time series prediction.
 
 
-## ELI5
+## ELI5 🧒
 <details>
   <summary>click to expand</summary>
   
