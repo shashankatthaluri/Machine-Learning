@@ -32,3 +32,58 @@ GRUs have been effectively used in a range of applications, similar to LSTMs but
 - Time-series prediction.
 
 GRUs represent an important step in the evolution of neural networks for sequential data processing, offering a balance between the computational efficiency of simple RNNs and the powerful memory capabilities of LSTMs. 🚀
+
+
+## ELI5
+<details>
+  <summary>click to expand</summary>
+  
+  ## Simple Understanding
+  Imagine you have a toy box (the neural network) that can remember and forget toys (information) based on how much you like them. GRUs work similarly but for computers!
+  Here's how GRUs work:
+  1. **Deciding What to Keep**: Imagine you're playing with toys and decide which ones are your favorites. GRUs have a special way to decide what information is important to keep from what it has learned before.
+  2. **Updating the Toy Box**: Then, when you get new toys, you might decide to make some room by removing the ones you don't play with much. GRUs do something similar by updating the information they remember based on the new information they get.
+  3. **Remembering the Favorites**: Even after adding new toys, you still remember your all-time favorites. GRUs keep track of the most important information through all the new stuff they learn.
+
+  ## Test time 📄🖋
+  
+  Now, let's see if you got it! Here are your pick the right answer questions:
+  1. What is a GRU?
+   - [ ] A. A type of toy box which just forget the information of toys 
+   - [ ] B. A special box that keeps toys 
+   - [ ] C. A simpler type of neural network that helps remember and forget information
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** C. A simpler type of neural network that helps remember and forget information.
+     > 
+     > **Explanation:** GRUs are designed to help computers remember important information over time while also having the ability to forget or update less important details, similar to how you manage your toy collection.
+  </details>
+  
+  2. How do GRUs decide what information is important to keep?
+   - [ ] A. By playing with toys 
+   - [ ] B. By using a special mechanism to decide what to remember and what to forget
+   - [ ] C. By asking a parent or teacher
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** B. By using a special mechanism to decide what to remember and what to forget.
+     > 
+     > **Explanation:** GRUs have a built-in way to decide which information is important enough to keep for later use and which can be updated or forgotten, much like you decide which toys are your favorites and which ones you can let go of.
+  </details>
+  
+  3. Why are GRUs useful in neural networks?
+   - [ ] A. They can keep all the toys. 
+   - [ ] B. They make neural networks remember information more efficiently.
+   - [ ] C. They are good at playing games and store information. 
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** B. They make neural networks remember information more efficiently.
+     > 
+     > **Explanation:** GRUs help neural networks to be more efficient at remembering important information and forgetting the less important, making the overall process of learning from data more effective.
+  </details>
+
