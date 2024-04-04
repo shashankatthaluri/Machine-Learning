@@ -96,3 +96,8 @@ SARSA remains a reliable method for learning optimal policies in real-time envir
      > 
      > **Explanation:** One challenge faced by SARSA is balancing exploration (trying new actions) and exploitation (leveraging known actions) to ensure effective learning and optimal decision-making.
   </details>
+
+  
+The questions are quite simple and beginner friendly. Unfortunately if you miss even one, I recommend you to focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
