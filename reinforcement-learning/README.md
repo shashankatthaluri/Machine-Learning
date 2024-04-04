@@ -35,3 +35,63 @@ Reinforcement Learning (RL) is a type of machine learning paradigm where an agen
 
 ## Conclusion 🌟
 Reinforcement Learning is a powerful framework for training agents to make autonomous decisions in dynamic environments. With its ability to learn from feedback and interactions, RL has applications in a wide range of domains, from game playing and robotics to finance and healthcare. Despite its challenges, ongoing research and advancements in RL algorithms are driving its adoption in real-world applications and paving the way for future innovations.
+
+
+## ELI5 🧒
+<details>
+  <summary>click to expand</summary>
+  
+  ## Simple Understanding
+  Imagine you're a pizza delivery kid in a bustling city, like a superhero on a mission to deliver pizzas to hungry customers. But here’s the catch: you don’t know the city streets very well, and you need to figure out the best route to deliver pizzas quickly while earning big tips!
+
+  **1. The Pizza Delivery Game**: You start at the pizza parlor with a stack of pizzas and a map of the city. Your goal is to deliver all the pizzas to customers and earn as much money as possible. But how do you decide which streets to take? This is where reinforcement learning comes in!
+
+  **2. Learning from Experience**: In reinforcement learning, you learn by doing. As you make deliveries, you remember which streets were fast and which ones were slow. If you take a shortcut and deliver a pizza quickly, you feel happy and remember to take that shortcut again next time. But if you get stuck in traffic on a particular street, you learn to avoid it in the future.
+
+  **3. Rewards and Punishments**: Every time you deliver a pizza, you receive a reward, like a tip from a satisfied customer. If you deliver pizzas quickly, you get bigger tips, but if you take too long, your tip might be smaller. These rewards and punishments help you learn which actions lead to better outcomes.
+
+  **4. Planning Ahead**: As you gain more experience, you start to plan your routes more strategically. You learn to anticipate traffic patterns, avoid construction zones, and prioritize deliveries based on distance and urgency. Over time, you become a master pizza delivery kid, navigating the city with ease and maximizing your earnings!
+
+  ## Test time 📄🖋
+  
+  Now, let's see if you got it! Here are your pick the right answer questions:
+  1. What is reinforcement learning?
+   - [ ] A. Learning from rewards and punishments to make decisions.
+   - [ ] B. Learning how to cook delicious food.
+   - [ ] C. Learning how to fly a spaceship to outer space.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** A. Learning from rewards and punishments to make decisions.
+     > 
+     > **Explanation:** Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards for good actions and punishments for bad ones, similar to learning from experience in the real world.
+  </details>
+  
+  2. How does reinforcement learning work?
+   - [ ] A. By memorizing a set of rules and following them strictly.
+   - [ ] B. By learning from experience and adjusting actions based on rewards and punishments.
+   - [ ] C. By randomly selecting actions and hoping for the best outcome.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** B. By learning from experience and adjusting actions based on rewards and punishments.
+     > 
+     > **Explanation:** Reinforcement learning agents learn to optimize their behavior by exploring different actions, receiving feedback in the form of rewards or punishments, and adjusting their strategies accordingly.
+  </details>
+  
+  3. What is the role of rewards in reinforcement learning?
+   - [ ] A. Rewards are used to punish bad actions.
+   - [ ] B. Rewards are ignored because they don't affect learning.
+   - [ ] C. Rewards guide the learning process by encouraging good actions and discouraging bad ones.
+
+  <details>
+    <summary>Click to reveal the correct answer and explanation</summary>
+
+     > **Correct Answer:** C. Rewards guide the learning process by encouraging good actions and discouraging bad ones.
+     > 
+     > **Explanation:** Rewards play a crucial role in reinforcement learning by providing feedback to the agent. They encourage the agent to repeat actions that lead to positive outcomes and avoid actions that lead to negative outcomes, ultimately guiding the learning process.
+  </details>
+
+<details>
