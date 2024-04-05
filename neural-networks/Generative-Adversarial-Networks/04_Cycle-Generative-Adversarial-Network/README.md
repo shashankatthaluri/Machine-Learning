@@ -113,4 +113,3 @@ Cycle Generative Adversarial Networks (CycleGANs) have revolutionized the field 
 The questions are quite simple and beginner-friendly. Unfortunately, if you miss even one right, I recommend you focus and go through the concept again. 
 
 <h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
-" 
