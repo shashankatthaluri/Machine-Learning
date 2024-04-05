@@ -112,5 +112,6 @@ Denoising autoencoders play a vital role in preprocessing noisy data and extract
      > 
      > **Explanation:** DAEs are commonly used for tasks such as image denoising, enhancing data quality, and detecting anomalies or outliers in data.
   </details>
-The questions are designed to reinforce key concepts and test your understanding of denoising autoencoders. Happy learning!
-</details>
+The questions are quite simple and beginner-friendly. Unfortunately, if you miss even one right, I recommend you focus and go through the concept again. 
+
+<h2 align= 'center'><b><font size = "10"> Happy learning! ☺ <font></b></h2>
