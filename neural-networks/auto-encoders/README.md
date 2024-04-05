@@ -16,15 +16,17 @@ Autoencoders are a type of artificial neural network used for unsupervised learn
 
 1. **Vanilla Autoencoder**: The simplest form of autoencoder, comprising an encoder and decoder with fully connected layers.
 
-2. **Variational Autoencoder (VAE)**: VAEs introduce probabilistic modeling into the autoencoder framework, enabling generation of new data samples from the learned latent space.
+2. **Undercomplete Autoencoder**: Also known as a compressed sensing autoencoder, undercomplete autoencoders enforce a constraint on the size of the latent space, making it smaller than the input dimensionality. This constraint encourages the autoencoder to learn a compressed representation of the data.
 
-3. **Convolutional Autoencoder**: Utilizes convolutional layers in the encoder and decoder networks, enabling effective handling of image data.
+3. **Variational Autoencoder (VAE)**: VAEs introduce probabilistic modeling into the autoencoder framework, enabling generation of new data samples from the learned latent space.
 
-4. **Denoising Autoencoder**: Trained to reconstruct clean data from noisy inputs, helping to learn robust features and reduce noise in data.
+4. **Convolutional Autoencoder**: Utilizes convolutional layers in the encoder and decoder networks, enabling effective handling of image data.
 
-5. **Sparse Autoencoder**: Introduces sparsity constraints on the latent representation to learn compact and meaningful features.
+5. **Denoising Autoencoder**: Trained to reconstruct clean data from noisy inputs, helping to learn robust features and reduce noise in data.
 
-6. **Contractive Autoencoder**: Incorporates a penalty term in the loss function to enforce stability and smoothness in the learned representation.
+6. **Sparse Autoencoder**: Introduces sparsity constraints on the latent representation to learn compact and meaningful features.
+
+7. **Contractive Autoencoder**: Incorporates a penalty term in the loss function to enforce stability and smoothness in the learned representation.
 
 ## Architecture 🏗️
 
