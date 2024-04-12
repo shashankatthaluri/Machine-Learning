@@ -71,6 +71,9 @@ Autoencoders are versatile neural network architectures with applications across
   
   ## Simple Understanding
   Imagine you have a magical shrink ray that can turn big toys into small toys and vice versa. Autoencoders are like this shrink ray, but for data! They take big pieces of data, squish them down into tiny pieces, and then try to blow them back up to the original size.
+  
+  ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cybWRmMmNkMm5waWsycGY0cTB1cmF5NndnM2kweDZscGo1dmdzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396YS1CyVw1i0TM4/giphy.gif)
+
 
   ## Shrink Ray with Autoencoders 🚀🔍
 
